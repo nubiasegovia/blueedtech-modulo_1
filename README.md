@@ -1,2 +1,2 @@
 # python-blueedtech
-Entrega das atividades do Módulo 1 - Lógica de programação
+Atividades do Módulo 1 da Blue Ed Tech
